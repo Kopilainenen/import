@@ -1,6 +1,8 @@
 1 Создаем файл 
 local/modules/krayt.catalogimport/lib
 userimport.php класс UserImport
+
+
 2 Там сделать создание пользователя из данных json 
 user: [{
   'Email': 'mail@yandex.ru',
